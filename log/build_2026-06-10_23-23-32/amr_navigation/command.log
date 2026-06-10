@@ -1,0 +1,4 @@
+Invoking command in '/home/aravind/ros2_logistics_amr/build/amr_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/aravind/ros2_logistics_amr/build/amr_navigation -- -j16 -l16
+Invoked command in '/home/aravind/ros2_logistics_amr/build/amr_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/aravind/ros2_logistics_amr/build/amr_navigation -- -j16 -l16
+Invoking command in '/home/aravind/ros2_logistics_amr/build/amr_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/aravind/ros2_logistics_amr/build/amr_navigation
+Invoked command in '/home/aravind/ros2_logistics_amr/build/amr_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/aravind/ros2_logistics_amr/build/amr_navigation

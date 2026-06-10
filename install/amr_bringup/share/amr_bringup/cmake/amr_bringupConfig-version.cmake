@@ -1,0 +1,1 @@
+/home/aravind/ros2_logistics_amr/build/amr_bringup/ament_cmake_core/amr_bringupConfig-version.cmake

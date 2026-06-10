@@ -1,0 +1,18 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/config/slam_toolbox.yaml
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/ament_index/resource_index/package_run_dependencies/amr_navigation
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/ament_index/resource_index/parent_prefix_path/amr_navigation
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/environment/path.sh
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/environment/path.dsv
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/local_setup.bash
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/local_setup.sh
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/local_setup.zsh
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/local_setup.dsv
+-- Symlinking: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/package.dsv
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/ament_index/resource_index/packages/amr_navigation
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/cmake/amr_navigationConfig.cmake
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/cmake/amr_navigationConfig-version.cmake
+-- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/package.xml

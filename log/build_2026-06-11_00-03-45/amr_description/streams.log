@@ -1,0 +1,23 @@
+[0.178s] Invoking command in '/home/aravind/ros2_logistics_amr/build/amr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aravind/ros2_logistics_amr/install/amr_controller:/opt/ros/jazzy /usr/bin/cmake --build /home/aravind/ros2_logistics_amr/build/amr_description -- -j16 -l16
+[0.220s] Invoked command in '/home/aravind/ros2_logistics_amr/build/amr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aravind/ros2_logistics_amr/install/amr_controller:/opt/ros/jazzy /usr/bin/cmake --build /home/aravind/ros2_logistics_amr/build/amr_description -- -j16 -l16
+[0.221s] Invoking command in '/home/aravind/ros2_logistics_amr/build/amr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aravind/ros2_logistics_amr/install/amr_controller:/opt/ros/jazzy /usr/bin/cmake --install /home/aravind/ros2_logistics_amr/build/amr_description
+[0.228s] -- Install configuration: ""
+[0.228s] -- Execute custom install script
+[0.229s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/urdf/amr_robot.urdf.xacro
+[0.229s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/meshes/.gitkeep
+[0.229s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/ament_index/resource_index/package_run_dependencies/amr_description
+[0.229s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/ament_index/resource_index/parent_prefix_path/amr_description
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/environment/ament_prefix_path.sh
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/environment/ament_prefix_path.dsv
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/environment/path.sh
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/environment/path.dsv
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/local_setup.bash
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/local_setup.sh
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/local_setup.zsh
+[0.230s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/local_setup.dsv
+[0.230s] -- Symlinking: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/package.dsv
+[0.240s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/ament_index/resource_index/packages/amr_description
+[0.240s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/cmake/amr_descriptionConfig.cmake
+[0.240s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/cmake/amr_descriptionConfig-version.cmake
+[0.240s] -- Up-to-date symlink: /home/aravind/ros2_logistics_amr/install/amr_description/share/amr_description/package.xml
+[0.242s] Invoked command in '/home/aravind/ros2_logistics_amr/build/amr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aravind/ros2_logistics_amr/install/amr_controller:/opt/ros/jazzy /usr/bin/cmake --install /home/aravind/ros2_logistics_amr/build/amr_description

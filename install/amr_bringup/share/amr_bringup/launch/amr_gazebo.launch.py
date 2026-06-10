@@ -1,0 +1,1 @@
+/home/aravind/ros2_logistics_amr/src/amr_bringup/launch/amr_gazebo.launch.py
