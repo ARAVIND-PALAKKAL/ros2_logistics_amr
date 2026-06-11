@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'odom_tf_broadcaster = amr_controller.odom_tf_broadcaster:main',
+            'initial_pose_publisher = amr_controller.initial_pose_publisher:main',
         ],
     },
 )

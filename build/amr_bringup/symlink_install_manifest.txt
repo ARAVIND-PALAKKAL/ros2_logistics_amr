@@ -1,4 +1,5 @@
 /home/aravind/ros2_logistics_amr/install/amr_bringup/share/amr_bringup/launch/amr_gazebo.launch.py
+/home/aravind/ros2_logistics_amr/install/amr_bringup/share/amr_bringup/launch/nav2.launch.py
 /home/aravind/ros2_logistics_amr/install/amr_bringup/share/ament_index/resource_index/package_run_dependencies/amr_bringup
 /home/aravind/ros2_logistics_amr/install/amr_bringup/share/ament_index/resource_index/parent_prefix_path/amr_bringup
 /home/aravind/ros2_logistics_amr/install/amr_bringup/share/amr_bringup/environment/ament_prefix_path.sh

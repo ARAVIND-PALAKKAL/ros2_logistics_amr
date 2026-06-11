@@ -1,0 +1,20 @@
+[0.881s] Invoking command in '/home/aravind/ros2_logistics_amr/build/amr_controller': PYTHONPATH=/home/aravind/ros2_logistics_amr/build/amr_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aravind/ros2_logistics_amr/install/amr_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aravind/ros2_logistics_amr/build/amr_controller/build --no-deps symlink_data
+[1.190s] running develop
+[1.344s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[1.344s]   self.local_index = Environment(self.shadow_path + sys.path)
+[1.375s] running egg_info
+[1.390s] writing amr_controller.egg-info/PKG-INFO
+[1.390s] writing dependency_links to amr_controller.egg-info/dependency_links.txt
+[1.390s] writing entry points to amr_controller.egg-info/entry_points.txt
+[1.391s] writing requirements to amr_controller.egg-info/requires.txt
+[1.391s] writing top-level names to amr_controller.egg-info/top_level.txt
+[1.430s] reading manifest file 'amr_controller.egg-info/SOURCES.txt'
+[1.431s] writing manifest file 'amr_controller.egg-info/SOURCES.txt'
+[1.449s] running build_ext
+[1.449s] Creating /home/aravind/ros2_logistics_amr/install/amr_controller/lib/python3.12/site-packages/amr-controller.egg-link (link to .)
+[1.449s] Installing initial_pose_publisher script to /home/aravind/ros2_logistics_amr/install/amr_controller/lib/amr_controller
+[1.450s] Installing odom_tf_broadcaster script to /home/aravind/ros2_logistics_amr/install/amr_controller/lib/amr_controller
+[1.450s] 
+[1.450s] Installed /home/aravind/ros2_logistics_amr/build/amr_controller
+[1.450s] running symlink_data
+[1.495s] Invoked command in '/home/aravind/ros2_logistics_amr/build/amr_controller' returned '0': PYTHONPATH=/home/aravind/ros2_logistics_amr/build/amr_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aravind/ros2_logistics_amr/install/amr_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aravind/ros2_logistics_amr/build/amr_controller/build --no-deps symlink_data

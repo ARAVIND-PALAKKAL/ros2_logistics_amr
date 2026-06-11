@@ -1,0 +1,1 @@
+/home/aravind/ros2_logistics_amr/src/amr_bringup/launch/nav2.launch.py

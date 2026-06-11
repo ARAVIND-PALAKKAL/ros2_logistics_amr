@@ -1,3 +1,4 @@
+/home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/config/nav2_params.yaml
 /home/aravind/ros2_logistics_amr/install/amr_navigation/share/amr_navigation/config/slam_toolbox.yaml
 /home/aravind/ros2_logistics_amr/install/amr_navigation/share/ament_index/resource_index/package_run_dependencies/amr_navigation
 /home/aravind/ros2_logistics_amr/install/amr_navigation/share/ament_index/resource_index/parent_prefix_path/amr_navigation
