@@ -1,7 +1,8 @@
-import rclpy
-from rclpy.node import Node
-from geometry_msgs.msg import PoseWithCovarianceStamped
 import time
+
+import rclpy
+from geometry_msgs.msg import PoseWithCovarianceStamped
+from rclpy.node import Node
 
 
 class InitialPosePublisher(Node):
@@ -12,7 +13,6 @@ class InitialPosePublisher(Node):
             PoseWithCovarianceStamped,
             '/initialpose',
             10)
-        # Wait for Nav2 to be ready
         self.timer = self.create_timer(2.0, self.publish_initial_pose)
         self.published = False
 
@@ -24,7 +24,6 @@ class InitialPosePublisher(Node):
         msg.header.frame_id = 'map'
         msg.header.stamp = self.get_clock().now().to_msg()
 
-        # Robot starts at origin facing forward
         msg.pose.pose.position.x = 0.0
         msg.pose.pose.position.y = 0.0
         msg.pose.pose.position.z = 0.0
