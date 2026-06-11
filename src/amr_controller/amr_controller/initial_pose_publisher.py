@@ -1,7 +1,5 @@
-import time
-
-import rclpy
 from geometry_msgs.msg import PoseWithCovarianceStamped
+import rclpy
 from rclpy.node import Node
 
 
