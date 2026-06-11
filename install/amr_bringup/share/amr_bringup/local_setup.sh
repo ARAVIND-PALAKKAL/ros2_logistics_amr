@@ -1,1 +1,0 @@
-/home/aravind/ros2_logistics_amr/build/amr_bringup/ament_cmake_environment_hooks/local_setup.sh

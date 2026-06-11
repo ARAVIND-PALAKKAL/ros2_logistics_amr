@@ -1,9 +1,0 @@
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/uninstall.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/amr_navigation_uninstall.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/test.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/edit_cache.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/rebuild_cache.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/list_install_components.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/install.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/install/local.dir
-/home/aravind/ros2_logistics_amr/build/amr_navigation/CMakeFiles/install/strip.dir
