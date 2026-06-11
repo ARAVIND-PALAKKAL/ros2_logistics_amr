@@ -12,9 +12,9 @@ An autonomous mobile robot (AMR) for warehouse logistics applications built with
 
 ## Demo
 
-> Robot navigating autonomously between waypoints in a warehouse environment with shelf obstacles.
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/4QUJeFePTSY)
 
-![Architecture](docs/architecture.png)
+> Robot navigating autonomously between 4 waypoints in a warehouse environment with shelf obstacles using Nav2 and AMCL localization.
 
 ---
 
