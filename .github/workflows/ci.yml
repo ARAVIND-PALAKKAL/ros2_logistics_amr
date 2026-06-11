@@ -1,0 +1,52 @@
+name: ROS2 CI
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-24.04
+    container:
+      image: ros:jazzy-ros-base
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install dependencies
+      run: |
+        apt-get update
+        apt-get install -y \
+          ros-jazzy-navigation2 \
+          ros-jazzy-nav2-bringup \
+          ros-jazzy-slam-toolbox \
+          ros-jazzy-robot-state-publisher \
+          ros-jazzy-xacro \
+          ros-jazzy-rmw-cyclonedds-cpp \
+          ros-jazzy-ros-gz-bridge \
+          python3-colcon-common-extensions \
+          python3-pytest
+
+    - name: Build workspace
+      run: |
+        . /opt/ros/jazzy/setup.sh
+        colcon build --symlink-install
+      shell: bash
+
+    - name: Run tests
+      run: |
+        . /opt/ros/jazzy/setup.sh
+        . install/setup.sh
+        colcon test --packages-select amr_controller amr_bringup
+        colcon test-result --verbose
+      shell: bash
+
+    - name: Verify packages
+      run: |
+        . /opt/ros/jazzy/setup.sh
+        . install/setup.sh
+        ros2 pkg list | grep amr
+      shell: bash
