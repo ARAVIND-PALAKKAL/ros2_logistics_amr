@@ -29,10 +29,6 @@ An autonomous mobile robot (AMR) for warehouse logistics applications built with
 
 ---
 
-## Architecture
-
----
-
 ## Stack
 
 | Component | Technology |
@@ -46,9 +42,6 @@ An autonomous mobile robot (AMR) for warehouse logistics applications built with
 | CI/CD | GitHub Actions |
 | Language | Python, C++ |
 
----
-
-## Project Structure
 ---
 
 ## Quick Start
